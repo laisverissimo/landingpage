@@ -1,0 +1,28 @@
+.sobre-web-design{
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+.sobre-web-design article{
+  width: 50%;
+}
+
+.sobre-web-design article h1{
+  font-size: 100px;
+  line-height: 100%;
+  font-weight: 800;
+  color: #000;
+}
+
+.sobre-web-design article h2{
+  margin-top: 45px;
+  color: #000;
+}
+
+.sobre-web-design article p{
+  margin: 10px 0 40px;
+}
+
+.sobre-web-design figcaption img{
+  width: 600px;
+}

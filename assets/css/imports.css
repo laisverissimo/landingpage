@@ -1,0 +1,13 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+
+/* Componentes*/
+@import './bootstrap.css';
+@import './buttons.css';
+@import './footer.css';
+@import './header.css';
+@import './main.css';
+@import './responsiveBackground.css';
+@import './responsiveElements.css';
+@import './sections.css';
+@import './styles.css';
